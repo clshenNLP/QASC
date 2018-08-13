@@ -4,5 +4,6 @@ This is the dataset for a novel sentiment classification task, i.e., sentiment c
 
 
 # Citation
+If you use the dataset for investigating this interesting problem, please cite the following paper:
 
-Chenlin Shen, Changlong Sun, Jingjing Wang, Yangyang Kang, Shoushan Li, Xiaozhong Liu, Luo Si, Min Zhang and Guodong Zhou. Sentiment Classidication towards Question-Answering with Hierarchical Matching Network. In Proceeding of EMNLP-2018.
+[Shen et al., 2018] Chenlin Shen, Changlong Sun, Jingjing Wang, Yangyang Kang, Shoushan Li, Xiaozhong Liu, Luo Si, Min Zhang and Guodong Zhou. Sentiment Classidication towards Question-Answering with Hierarchical Matching Network. In Proceeding of EMNLP-2018.
